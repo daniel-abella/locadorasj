@@ -13,3 +13,5 @@ else:
         print("- Nome do filme:",item[1],"lançado em",item[3])
 
 encerrarConexao(conexao)
+
+print("Outra linha")
